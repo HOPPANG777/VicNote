@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer-Science/스택-프레임.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -183,7 +185,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "a856a3d9ec7449ec",
+  "active": "6945a668910f739b",
   "lastOpenFiles": [
     "Csharp-Language",
     "image-1.png",
